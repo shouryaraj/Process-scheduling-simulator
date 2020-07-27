@@ -1,8 +1,12 @@
-# Process-scheduling-simulator
-Created programs to simulate two diﬀerent scheduling algorithms i.e. First come, first served and Preemptive Round Robin scheduling
+<h1 align="center" >Process-scheduling-simulator <h1>
+<p>Created programs to simulate two diﬀerent scheduling algorithms i.e. First come, first served and Preemptive Round Robin scheduling<p>
+<p>
+<img src="resource/scheduler_pic.png" alt="Logo" align="center" width="600px">
+</p>
 
-
-# Instruction 
+	
+	
+## Instruction 
 
 ```
 FCFS and ROUND_ROBIN user commands
